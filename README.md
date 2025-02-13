@@ -28,7 +28,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Files:**
 
 * Notebook: internship_analysis_task_1.ipynb
-* Dataset: Dataset.csv
+* Dataset: [Dataset.csv](https://github.com/KarishmaKolhe51/Cognifyz_Internship_BusinessAnalytics/blob/main/Dataset.csv)
 
 **Key Results:**
 
