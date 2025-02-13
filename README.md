@@ -51,7 +51,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Files:**
 
 * Notebook: internship_analysis_task_2.ipynb
-* Dataset: Dataset.csv
+* Dataset: [Dataset.csv](https://github.com/KarishmaKolhe51/Cognifyz_Internship_BusinessAnalytics/blob/main/Dataset.csv)
 
 **Key Results:**
 
@@ -74,7 +74,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Files:**
 
 * Notebook: internship_analysis_task_3.ipynb
-* Dataset: Dataset.csv
+* Dataset: [Dataset.csv](https://github.com/KarishmaKolhe51/Cognifyz_Internship_BusinessAnalytics/blob/main/Dataset.csv)
 
 **Key Results:**
 
@@ -97,7 +97,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Files:**
 
 * Notebook: internship_analysis_task_4.ipynb
-* Dataset: Dataset.csv
+* Dataset: [Dataset.csv](https://github.com/KarishmaKolhe51/Cognifyz_Internship_BusinessAnalytics/blob/main/Dataset.csv)
 
 **Key Results:**
 
@@ -121,7 +121,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Files:**
 
 * Notebook: internship_analysis_task_5.ipynb
-* Dataset: Dataset.csv
+* Dataset: [Dataset.csv](https://github.com/KarishmaKolhe51/Cognifyz_Internship_BusinessAnalytics/blob/main/Dataset.csv)
 
 **Key Results:**
 
@@ -147,7 +147,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Files:**
 
 * Notebook: internship_analysis_task_6.ipynb
-* Dataset: Dataset.csv
+* Dataset: [Dataset.csv](https://github.com/KarishmaKolhe51/Cognifyz_Internship_BusinessAnalytics/blob/main/Dataset.csv)
 
 **Key Results:**
 
@@ -172,7 +172,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Files:**
 
 * Notebook: internship_analysis_task_7.ipynb
-* Dataset: Dataset.csv
+* Dataset: [Dataset.csv](https://github.com/KarishmaKolhe51/Cognifyz_Internship_BusinessAnalytics/blob/main/Dataset.csv)
 
 **Key Results:**
 
@@ -198,7 +198,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Files:**
 
 * Notebook: internship_analysis_task_8.ipynb
-* Dataset: Dataset.csv
+* Dataset: [Dataset.csv](https://github.com/KarishmaKolhe51/Cognifyz_Internship_BusinessAnalytics/blob/main/Dataset.csv)
 
 **Key Results:**
 
@@ -220,7 +220,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Files:**
 
 * Notebook: internship_analysis_task_9.ipynb
-* Dataset: Dataset.csv
+* Dataset: [Dataset.csv](https://github.com/KarishmaKolhe51/Cognifyz_Internship_BusinessAnalytics/blob/main/Dataset.csv)
 
 **Key Results:**
 
@@ -236,13 +236,13 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 ### How to Use
 1. Download the necessary files (Jupyter notebooks, dataset, and videos).
 2. Open the Jupyter notebook (*.ipynb) files to view and run the analysis.
-3. Visit my LinkedIn profile to watch the task videos.
+3. Visit my [LinkedIn profile](https://www.linkedin.com/in/karishma-kolhe/) to watch the task videos.
 
 Feel free to fork this repository and use it for learning purposes or contribute!
 
 ---
 
 ### Contact Information
-Feel free to reach out to me on LinkedIn for further information or feedback.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/karishma-kolhe/) for further information or feedback.
 
 Thank you for visiting!
