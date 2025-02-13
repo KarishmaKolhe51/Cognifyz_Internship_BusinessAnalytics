@@ -13,6 +13,6 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Task 8: Investment Duration** – Calculating the average investment duration.
 **Task 9: Expectations from Investments** – Summarizing participants' expectations from their investments.
 
-<br/>
+---<br/>
 
 ## Completed Tasks
