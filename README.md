@@ -126,7 +126,7 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Key Results:**
 
 * The most common reasons for investment are:
- * Wealth Creation (32 mentions)
+  * Wealth Creation (32 mentions)
  * Savings for Future (6 mentions)
  * Returns (2 mentions)
 
