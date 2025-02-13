@@ -126,9 +126,9 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Key Results:**
 
 * The most common reasons for investment are:
-* Wealth Creation (32 mentions)
-* Savings for Future (6 mentions)
-* Returns (2 mentions)
+ * Wealth Creation (32 mentions)
+ * Savings for Future (6 mentions)
+ * Returns (2 mentions)
 
 **Presentation Video:** Watch on LinkedIn
 
@@ -152,9 +152,9 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Key Results:**
 
 * Participants' main savings objectives are:
-* Retirement Plan (24 mentions)
-* Health Care (13 mentions)
-* Education (3 mentions)
+ * Retirement Plan (24 mentions)
+ * Health Care (13 mentions)
+ * Education (3 mentions)
 
 **Presentation Video:** Watch on LinkedIn
 
@@ -177,10 +177,10 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Key Results:**
 
 * The most common information sources for investment are:
-* Financial Consultants (16 mentions)
-* Newspapers and Magazines (14 mentions)
-* Television (6 mentions)
-* Internet (4 mentions)
+ * Financial Consultants (16 mentions)
+ * Newspapers and Magazines (14 mentions)
+ * Television (6 mentions)
+ * Internet (4 mentions)
 
 **Presentation Video:** Watch on LinkedIn
 
@@ -225,18 +225,19 @@ Welcome to my repository showcasing my internship at Cognifyz Technologies as a 
 **Key Results:**
 
 * Common expectations include:
-  * 20%-30%: Mentioned 32 times
-30%-40%: Mentioned 5 times
-10%-20%: Mentioned 3 times
+ * 20%-30%: Mentioned 32 times
+ * 30%-40%: Mentioned 5 times
+ * 10%-20%: Mentioned 3 times
 
 **Presentation Video:** Watch on LinkedIn
 
 ---
 
 ### How to Use
-Download the necessary files (Jupyter notebooks, dataset, and videos).
-Open the Jupyter notebook (*.ipynb) files to view and run the analysis.
-Visit my LinkedIn profile to watch the task videos.
+1. Download the necessary files (Jupyter notebooks, dataset, and videos).
+2. Open the Jupyter notebook (*.ipynb) files to view and run the analysis.
+3. Visit my LinkedIn profile to watch the task videos.
+
 Feel free to fork this repository and use it for learning purposes or contribute!
 
 ---
